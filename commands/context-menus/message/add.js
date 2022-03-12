@@ -64,7 +64,7 @@ module.exports = {
 			playEmbed.setDescription(`${track.title}`);
 
 			playEmbed.setFooter(
-				`Requested by ${track.requestedBy.username} | Made By Whirl#0021`
+				`Requested by ${track.requestedBy.username} | Made By Mahilan`
 			);
 		}
 
