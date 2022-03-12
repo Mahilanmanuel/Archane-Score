@@ -24,7 +24,7 @@ module.exports = {
 			});
 		}
 		if (queue) {
-			const lol = true; //i was lazy to change the code really 😂
+			const lol = true; 
 			if (lol) {
 				queue.setFilters({
 					"8D": true,
