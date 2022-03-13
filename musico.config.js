@@ -8,7 +8,7 @@
  */
 const config = {
 	botId: "952121252385005618",
-	botToken: "OTUyMTIxMjUyMzg1MDA1NjE4.YixaBA.Tus7trzBtx0sKz9DN0xSl7-v5cg",
+	botToken: "OTUyMTIxMjUyMzg1MDA1NjE4.YixaBA.u69QTSJzcEWykTPtDbwmKXJWaL0",
 	ownerId: "951768112204750868",
         channel: "951771267604824064"
 };
