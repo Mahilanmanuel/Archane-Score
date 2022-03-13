@@ -22,6 +22,7 @@ Archane Score is a bot which is proficient in Music. This project is still under
 - [Discord Developer](https://discord.com/developers/docs/intro)
 - [Discord](https://discord.com/)
 - [Autocode](https://autocode.com/)
+- [Replit](https://replit.com/)
 
 
 ## 📜 License
