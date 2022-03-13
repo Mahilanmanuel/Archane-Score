@@ -3,8 +3,8 @@
 
 ## Info
 
-Listen Other Worldly Music!
-Archane Score is a bot which is proficient in Music. This project is still underdevelopement so be warned that there might be bug issues.
+Listen Other Worldly Music!With 
+Archane Score, is a bot which is proficient in Music. This project is still underdevelopement so be warned that there might be bug issues.
 
 ## Author
 
